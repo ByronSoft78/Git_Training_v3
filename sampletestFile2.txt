@@ -1,1 +1,2 @@
-this is sample test 2
+this is sample 2
+this is comparition lecture File 2
